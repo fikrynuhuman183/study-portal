@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228696842993",
+    "project_id": "study-portal-a725c",
+    "storage_bucket": "study-portal-a725c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228696842993:android:1b0fa564fe1f98f4ee7f50",
+        "android_client_info": {
+          "package_name": "com.sketchy.study_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228696842993-p5qd5pbf4a71o4kbjv3ir8sf9n4eaug3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy11FFJgO_9WdSr5zaSDPDng9CTDjm474"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228696842993-p5qd5pbf4a71o4kbjv3ir8sf9n4eaug3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
