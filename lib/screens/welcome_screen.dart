@@ -14,21 +14,15 @@ class WelcomeScreen extends StatelessWidget {
           children: [
             ElevatedButton(
               onPressed: () {
-                Navigator.pushNamed(context, MyApp.teacherLoginRoute);
+                Navigator.pushNamed(context, MyApp.loginRoute);
               },
-              child: Text('I am a Teacher'),
-            ),
-            ElevatedButton(
-              onPressed: () {
-                Navigator.pushNamed(context, MyApp.studentLoginRoute);
-              },
-              child: Text('I am a Student'),
+              child: Text('Login'),
             ),
             ElevatedButton(
               onPressed: () {
                 Navigator.pushNamed(context, MyApp.registrationRoute);
               },
-              child: Text('I am a Student'),
+              child: Text('Register'),
             ),
           ],
         ),
